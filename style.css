@@ -1,0 +1,59 @@
+.header{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	font-size:40px;
+}
+.subheader{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	font-size:30px;
+}
+p{
+	font-family: 'Crimson Text', serif;
+	text-align: center;
+	font-size:16px;
+}
+p.text{
+	font-family: 'Crimson Text', serif;
+	text-align: center;
+	font-size:18px;
+	font-style: bold;
+}
+p.mega{
+	font-family: 'Crimson Text', serif;
+	text-align: center;
+	font-size:20px;
+	font-style: bold;
+}
+.solid{
+	border-style: solid;
+}
+.border{
+	border-bottom: 2px solid;
+}
+.background{
+	background-color: #D900E8;
+}
+.background2{
+	background-color: #B1EDE8;
+}
+img{
+	width:100px;
+	height:100px;
+	padding: 5px 5px 5px 5px;
+}
+img.album{
+	width: 200px;
+	height: 350px;
+	padding: 5px 5px 5px 5px;
+}
+img.aesthetic{
+	width: 300px;
+	height: 500px;
+	padding: 10px 10px 10px 10px;
+}
+img.members{
+	width: 200px;
+	height: 300px;
+	padding: 5px 5px 5px 5px;
+}
